@@ -1,4 +1,7 @@
 ### 👋 おはよう世界！
+
+<img align='right' src="https://gfycat.com/playfulhomelyandalusianhorse" width="420" height="355">
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -24,12 +27,12 @@ int main(void) {
    Karroot->university[1] = "Boccony University";
    Karroot->work_experience[0] = "Cefriel"; // as ICT security analyst & developer 
    Karroot->work_experience[1] = "Unicredit"; // as Cybersecurity Auditor
-   Karroot->interest[0] = "Cybersecurity risk"
-   Karroot->interest[1] = "Network security"
-   Karroot->interest[2] = "Computer ethics"
+   Karroot->interest[0] = "Cybersecurity risk";
+   Karroot->interest[1] = "Network security";
+   Karroot->interest[2] = "Computer ethics";
    
-   printf("\n %s can be defined as:\n", HUMAN.name);
-   printf("born in %s, currently a %s at %s and he graduated at both %s and %s while working as intern at %s and he is currently interested in %s, %s and %s",
+   printf("\n %s can be defined as:\n\n", Karroot->name);
+   printf("A funny guy born in %s, currently a %s at %s and he graduated at both %s and %s while working as intern at %s and he is currently interested in %s, %s and %s.",
    Karroot->born_date, Karroot->title, Karroot->work_experience[1], Karroot->university[0], Karroot->university[1], Karroot->work_experience[0], Karroot->interest[0], Karroot->interest[1], Karroot->interest[2]);
 
     return 0;
