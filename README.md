@@ -10,7 +10,7 @@ typedef struct {
     char *title;
     char *university[2];
     char *work_experience[2];
-    char *interests[3];
+    char *interest[3];
 } Human;
 
 int main(void) {
