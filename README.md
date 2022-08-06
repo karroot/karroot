@@ -1,6 +1,7 @@
 ### 👋 おはよう世界！
 
-<img align='right' src="https://gfycat.com/playfulhomelyandalusianhorse" width="420" height="355">
+<img align='right' src="https://c.tenor.com/KWEGC7NGkVQAAAAd/end-of-evangelion-rei.gif" width="420" height="355">
+
 
 ```C
 #include <stdio.h>
