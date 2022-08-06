@@ -1,8 +1,5 @@
 ### 👋 おはよう世界！
 
-<img align='right' src="https://i.kym-cdn.com/photos/images/original/000/948/102/01a.gif" width="420" height="700">
-
-
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -33,8 +30,10 @@ int main(void) {
    Karroot->interest[2] = "Computer ethics";
    
    printf("\n %s can be defined as:\n\n", Karroot->name);
-   printf("A funny guy born in %s, currently a %s at %s and he graduated at both %s and %s while working as intern at %s and he is currently interested in %s, %s and %s.",
-   Karroot->born_date, Karroot->title, Karroot->work_experience[1], Karroot->university[0], Karroot->university[1], Karroot->work_experience[0], Karroot->interest[0], Karroot->interest[1], Karroot->interest[2]);
+   printf("A funny guy born in %s, currently a %s at %s and he graduated at both %s and %s while working as intern at %s and
+   he is currently interested in %s, %s and %s.",
+   Karroot->born_date, Karroot->title, Karroot->work_experience[1], Karroot->university[0], Karroot->university[1],
+   Karroot->work_experience[0], Karroot->interest[0], Karroot->interest[1], Karroot->interest[2]);
 
     return 0;
 }
@@ -44,6 +43,8 @@ int main(void) {
 ---
 
 ### 🧐 About me
+
+<img align='center' src="https://i.kym-cdn.com/photos/images/original/000/948/102/01a.gif" width="420" height="300">
 Currently cybersecurity auditor at Unicredit S.p.a. 
 I deal with digital ethics whenever possible.
 
