@@ -1,6 +1,6 @@
 ### 👋 おはよう世界！
 
-<img align='right' src="https://c.tenor.com/KWEGC7NGkVQAAAAd/end-of-evangelion-rei.gif" width="420" height="355">
+<img align='right' src="https://i.kym-cdn.com/photos/images/original/000/948/102/01a.gif" width="420" height="700">
 
 
 ```C
