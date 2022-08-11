@@ -54,8 +54,8 @@ Member of [EticaDigitale](https://t.me/EticaDigitaleChannel) where we publish re
 
 Passionate about IT, cyber security and the impacts of new technologies on society.
 Now I'm studying for the Cisco CCNA routing and switching certification (200-301) and I keep myself informed on cyber developments in the world.
-
 Among other things I am passionate about anime/manga, fighting sports and theology.
+
 ---
 
 ### 🕹️ My projects
