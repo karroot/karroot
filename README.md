@@ -22,7 +22,7 @@ int main(void) {
    Karroot->born_date = "23/09/1997";
    Karroot->title = "Cybersecurity Auditor";
    Karroot->university[0] = "Polytechnic of Milan";
-   Karroot->university[1] = "Boccony University";
+   Karroot->university[1] = "Bocconi University";
    Karroot->work_experience[0] = "Cefriel"; // as ICT security analyst & developer 
    Karroot->work_experience[1] = "Unicredit"; // as Cybersecurity Auditor
    Karroot->interest[0] = "Cybersecurity risk";
